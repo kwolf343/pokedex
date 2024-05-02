@@ -1,0 +1,11 @@
+.info-pokemon{
+    padding: 2% 4%;
+    border-radius: 7px;
+    margin-bottom: 1%;
+    font-family: 'Courier New';
+    font-weight: bold;
+}
+.info-pokemon:hover{
+    background-color: rgb(254,243, 239);
+    cursor: pointer;
+}
